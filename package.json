@@ -1,0 +1,21 @@
+{
+  "name": "node-js-hm1",
+  "version": "1.0.0",
+  "author": "Shestavetskyi V.V",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "uuid": "^9.0.0"
+  }
+}
